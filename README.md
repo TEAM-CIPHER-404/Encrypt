@@ -6,7 +6,6 @@
 
 ```
 pkg update
-
 ```
 ```
 pkg upgrade
