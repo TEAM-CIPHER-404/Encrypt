@@ -14,9 +14,6 @@ pkg upgrade
 ```
 pkg install python
 ```
-```
-pkg install requests
-```
 •Clone the tool's repository
 ```
 git clone https://github.com/TEAM-CIPHER-404/Encrypt
