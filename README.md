@@ -16,7 +16,7 @@ pkg install python
 ```
 •Clone the tool's repository
 ```
-git clone https://github.com/TEAM-CIPHER-404/Encrypt
+git clone https://github.com/TEAMCIPHER404/Encrypt
 ```
 ```
 cd Encrypt
