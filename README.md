@@ -21,7 +21,7 @@ git clone https://github.com/TEAMCIPHER404/Encrypt
 ```
 cd Encrypt
 ```
-•Launch the tool and experience the magic
+•Launch the tool
 ```
 python Enc.py
 ```
